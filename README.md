@@ -7,7 +7,7 @@ http://arabic.omaralzabir.com/home
 
 I'm not a programmer, I don't know how to use Github, I'm just here to put my project up for other people to use if they need to.
 
-Note: this keyboard doesn't have third level keys (AltGr). I may add it in the future, I never use them personally. If you want this feature added please let me know. 
+Note: this keyboard doesn't have third level keys (AltGr). I may add it in the future, I never use them personally. If you want this feature added please let me know. And don't forget to report any issues or mistakes!
 
 # Install instructions
 
