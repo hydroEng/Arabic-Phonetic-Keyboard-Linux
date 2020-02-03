@@ -9,6 +9,10 @@ I'm not a programmer, I don't know how to use Github, I'm just here to put my pr
 
 Note: this keyboard doesn't have third level keys (AltGr). I may add it in the future, I never use them personally. If you want this feature added please let me know. And don't forget to report any issues or mistakes!
 
+# Updates
+
+4/2/2020: Made comma button print the Arabic comma (right to left), also fixed tilde / grave key 
+
 # Install instructions
 
 This has only been tested on ubuntu. However, since this is a basic keyboard layout file, 
