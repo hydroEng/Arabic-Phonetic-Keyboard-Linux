@@ -21,8 +21,8 @@ xkb_symbols "basic" {
 
     key <AD01> {  [      Arabic_qaf,    Arabic_hamzaonyeh,                  NoSymbol,               U2066 ]};  // ‎ق‎ ‎ئ       LEFT‑TO‑RIGHT ISOLATE
     key <AD02> {  [      Arabic_waw,    Arabic_hamzaonwaw,                  NoSymbol,               U2067 ]};  // و‎ ‎ؤ       RIGHT‑TO‑LEFT ISOLATE
-    key <AD03> {  [      Arabic_ain,         Arabic_damma,                  NoSymbol,               U2068 ]};  // ‎ع ‎ُ       FIRST STRONG ISOLATE
-    key <AD04> {  [       Arabic_ra,      Arabic_dammatan,                  NoSymbol,               U2069 ]};  // ‎ر ‎ٌ       POP DIRECTIONAL ISOLATE
+    key <AD03> {  [      Arabic_ain,                U0670,                  NoSymbol,               U2068 ]};  // ‎ع ‎ٰ      FIRST STRONG ISOLATE
+    key <AD04> {  [       Arabic_ra,                U0653,                  NoSymbol,               U2069 ]};  // ‎ر ‎ٓ      POP DIRECTIONAL ISOLATE
     key <AD05> {  [      Arabic_teh,           Arabic_tah,                Arabic_veh,            NoSymbol ]};  // ‎ت‎ ‎ط     ‎ڤ
     key <AD06> {  [      Arabic_yeh,   Arabic_alefmaksura,                  NoSymbol,               U202A ]};  // ‎ي ‎ى‎       LEFT-TO-RIGHT-EMBEDDING
     key <AD07> {  [    Arabic_fatha,      Arabic_fathatan,                  NoSymbol,               U202B ]};  // ‎َ ً        RIGHT-TO-LEFT EMBEDDING
